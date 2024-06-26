@@ -9,5 +9,13 @@
 [`@octokit-rest`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/@octokit-rest.md)
 [`fs`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/fs.md)
 [`node_cron`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/node_cron.md)
+[**`Docker`**](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/README.md)
+[`docker-compose`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/docker-compose.md)
+[`docker-swarm`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/docker-swarm.md)
+[**`GitHub`**](https://github.com/lxRbckl/lxRbckl/blob/main/GitHub/README.md)
+[`github actions`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/github-actions.md)
+[`github workflows`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/github-workflows.md)
+[**`Git`**](https://github.com/lxRbckl/lxRbckl/blob/main/Git/README.md)
+[`git hooks`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/git-hooks.md)
 
 #
