@@ -19,6 +19,6 @@
 [`git hooks`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/git-hooks.md)
 [**`Shell`**](https://github.com/lxRbckl/lxRbckl/blob/main/Shell/README.md)
 [**`Linux`**](https://github.com/lxRbckl/lxRbckl/blob/main/Linux/README.md)
-[**`Raspberry Pi`**](https://github.com/lxRbckl/lxRbckl/blob/main/Linux/Raspberry-Pi.md)
+[**`Raspberry Pi`**](https://github.com/lxRbckl/lxRbckl/blob/main/Raspberry-Pi/README.md)
 
 #
