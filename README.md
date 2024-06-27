@@ -7,7 +7,7 @@
 [`os`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/os.md)
 [`asyncio`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/asyncio.md)
 [`pygithub`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/pygithub.md)
-[`discord-py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py.md)
+[`discord py`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/discord-py.md)
 [`datetime`](https://github.com/lxRbckl/lxRbckl/blob/main/Python/datetime.md)
 [**`Shell`**](https://github.com/lxRbckl/lxRbckl/blob/main/Shell/README.md)
 [**`Linux`**](https://github.com/lxRbckl/lxRbckl/blob/main/Linux/README.md)
