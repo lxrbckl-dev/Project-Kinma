@@ -17,6 +17,7 @@
 [`github workflows`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/github-workflows.md)
 [**`Git`**](https://github.com/lxRbckl/lxRbckl/blob/main/Git/README.md)
 [`git hooks`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/git-hooks.md)
+[**`Linux`**](https://github.com/lxRbckl/lxRbckl/blob/main/Shell/README.md)
 [**`Linux`**](https://github.com/lxRbckl/lxRbckl/blob/main/Linux/README.md)
 
 #
