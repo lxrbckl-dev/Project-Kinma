@@ -4,11 +4,11 @@
 ---
 
 [**`JavaScript`**](https://github.com/lxRbckl/lxRbckl/blob/main/JavaScript/README.md)
-[`discord js`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/discord-js/README.md)
-[`child_process`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/child_process/README.md)
-[`@octokit rest`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/@octokit-rest/README.md)
-[`fs`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/fs/README.md)
-[`node_cron`](https://github.com/lxRbckl/lxRbckl/blob/main/Javascript/node_cron/README.md)
+[`discord js`](https://github.com/lxRbckl/lxRbckl/blob/main/JavaScript/discord-js/README.md)
+[`child_process`](https://github.com/lxRbckl/lxRbckl/blob/main/JavaScript/child_process/README.md)
+[`@octokit rest`](https://github.com/lxRbckl/lxRbckl/blob/main/JavaScript/@octokit-rest/README.md)
+[`fs`](https://github.com/lxRbckl/lxRbckl/blob/main/JavaScript/fs/README.md)
+[`node_cron`](https://github.com/lxRbckl/lxRbckl/blob/main/JavaScript/node_cron/README.md)
 [**`Docker`**](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/README.md)
 [`docker compose`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/docker-compose/README.md)
 [`docker swarm`](https://github.com/lxRbckl/lxRbckl/blob/main/Docker/docker-swarm/README.md)
