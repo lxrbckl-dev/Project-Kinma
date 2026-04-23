@@ -12,6 +12,6 @@
     "@octokit/rest": "^20.0.2",
     "discord.js": "^14.14.1",
     "lxrbckl": "^9.9.4",
-    "node-cron": "^3.0.3"
+    "node-cron": "^4.2.1"
   }
 }
